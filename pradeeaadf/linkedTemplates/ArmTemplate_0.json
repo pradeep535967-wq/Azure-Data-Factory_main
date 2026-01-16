@@ -55,9 +55,9 @@
 				"typeProperties": {
 					"recurrence": {
 						"frequency": "Minute",
-						"interval": 1,
+						"interval": 5,
 						"startTime": "2026-01-16T09:03:00",
-						"endTime": "2026-01-16T09:10:00",
+						"endTime": "2026-01-16T10:10:00",
 						"timeZone": "India Standard Time"
 					}
 				}
